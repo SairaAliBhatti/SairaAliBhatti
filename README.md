@@ -1,7 +1,7 @@
-# Hi 👋  
-
 ## 🧑‍💻 About Me  
-I'm Saira, a final-year **Data Science student**, with a strong interest in **Deep Learning, Healthcare Data Analytics, and Health Data Science**. Currently, I am learning **health-related topics** and working with **IBM SPSS** to analyze healthcare data. My academic journey has focused on **Machine Learning, Data Analysis, and Data Visualization**, and I aspire to leverage data for **social impact and innovation**.  
+I'm Saira, currently pursuing an MS in Information Security at the National University of Sciences and Technology (NUST), Pakistan. I have a strong background in **Data Science**, with interests in **Artificial Intelligence, Deep Learning, and Healthcare Data Analytics**.
+I have hands-on experience working with **healthcare datasets**, applying statistical analysis and machine learning techniques to extract meaningful insights. My previous work includes analyzing public health data using tools such as Python, Power BI, and IBM SPSS.
+I am particularly interested in exploring **AI applications in healthcare**, including **multi-modal learning and large language models (LLMs)**, and aim to contribute to research that bridges data science and medical innovation.
 
 ## 📊 Skills  
 

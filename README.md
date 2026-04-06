@@ -1,7 +1,8 @@
 ## 🧑‍💻 About Me  
-I'm Saira, currently pursuing an MS in Information Security at the National University of Sciences and Technology (NUST), Pakistan. I have a strong background in **Data Science**, with interests in **Artificial Intelligence, Deep Learning, and Healthcare Data Analytics**.
-I have hands-on experience working with **healthcare datasets**, applying statistical analysis and machine learning techniques to extract meaningful insights. My previous work includes analyzing public health data using tools such as Python, Power BI, and IBM SPSS.
-I am particularly interested in exploring **AI applications in healthcare**, including **multi-modal learning and large language models (LLMs)**, and aim to contribute to research that bridges data science and medical innovation.
+I'm Saira, currently pursuing an MS in Information Security at the National University of Sciences and Technology (NUST), Pakistan. I have a background in Data Science, with a strong interest in **Artificial Intelligence, Machine Learning, and Healthcare Data Analytics**.
+I have hands-on experience working with **healthcare datasets**, applying statistical analysis and machine learning techniques to extract meaningful insights. My work includes public health data analysis and the development of data-driven solutions using tools such as Python, Power BI, and IBM SPSS.
+My current interests lie at the intersection of **AI and real-world applications**, particularly in **healthcare, multi-modal learning, and large language models (LLMs)**. I am also interested in **AI security, data privacy, and intelligent systems**, with the aim of developing solutions that are both impactful and reliable.
+I am motivated to contribute to research that combines **data science, artificial intelligence, and secure systems** to solve real-world challenges.
 
 ## 📊 Skills  
 
